@@ -1,0 +1,1 @@
+pg_dump --schema public --inserts > backups/$(date +"%Y-%m-%d_%T").sql
