@@ -1,1 +1,1 @@
-psql -U postgres -d postgres < [path-to-file]
+# psql -U postgres -d postgres < [path-to-file]
